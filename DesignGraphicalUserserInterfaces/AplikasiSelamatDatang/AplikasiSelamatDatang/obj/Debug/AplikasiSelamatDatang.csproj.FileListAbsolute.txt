@@ -1,0 +1,10 @@
+F:\AMIKOM\SEMESTER 3\PEMROGRAMAN LANJUT\Praktikum3\AplikasiSelamatDatang\AplikasiSelamatDatang\bin\Debug\AplikasiSelamatDatang.exe.config
+F:\AMIKOM\SEMESTER 3\PEMROGRAMAN LANJUT\Praktikum3\AplikasiSelamatDatang\AplikasiSelamatDatang\bin\Debug\AplikasiSelamatDatang.exe
+F:\AMIKOM\SEMESTER 3\PEMROGRAMAN LANJUT\Praktikum3\AplikasiSelamatDatang\AplikasiSelamatDatang\bin\Debug\AplikasiSelamatDatang.pdb
+F:\AMIKOM\SEMESTER 3\PEMROGRAMAN LANJUT\Praktikum3\AplikasiSelamatDatang\AplikasiSelamatDatang\obj\Debug\AplikasiSelamatDatang.csproj.AssemblyReference.cache
+F:\AMIKOM\SEMESTER 3\PEMROGRAMAN LANJUT\Praktikum3\AplikasiSelamatDatang\AplikasiSelamatDatang\obj\Debug\AplikasiSelamatDatang.frmSelamatDatang.resources
+F:\AMIKOM\SEMESTER 3\PEMROGRAMAN LANJUT\Praktikum3\AplikasiSelamatDatang\AplikasiSelamatDatang\obj\Debug\AplikasiSelamatDatang.Properties.Resources.resources
+F:\AMIKOM\SEMESTER 3\PEMROGRAMAN LANJUT\Praktikum3\AplikasiSelamatDatang\AplikasiSelamatDatang\obj\Debug\AplikasiSelamatDatang.csproj.GenerateResource.cache
+F:\AMIKOM\SEMESTER 3\PEMROGRAMAN LANJUT\Praktikum3\AplikasiSelamatDatang\AplikasiSelamatDatang\obj\Debug\AplikasiSelamatDatang.csproj.CoreCompileInputs.cache
+F:\AMIKOM\SEMESTER 3\PEMROGRAMAN LANJUT\Praktikum3\AplikasiSelamatDatang\AplikasiSelamatDatang\obj\Debug\AplikasiSelamatDatang.exe
+F:\AMIKOM\SEMESTER 3\PEMROGRAMAN LANJUT\Praktikum3\AplikasiSelamatDatang\AplikasiSelamatDatang\obj\Debug\AplikasiSelamatDatang.pdb

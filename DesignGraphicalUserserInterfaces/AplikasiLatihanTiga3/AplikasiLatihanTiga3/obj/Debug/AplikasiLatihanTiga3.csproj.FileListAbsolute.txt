@@ -1,0 +1,10 @@
+F:\AMIKOM\SEMESTER 3\PEMROGRAMAN LANJUT\Praktikum3\AplikasiLatihanTiga3\AplikasiLatihanTiga3\bin\Debug\AplikasiLatihanTiga3.exe.config
+F:\AMIKOM\SEMESTER 3\PEMROGRAMAN LANJUT\Praktikum3\AplikasiLatihanTiga3\AplikasiLatihanTiga3\bin\Debug\AplikasiLatihanTiga3.exe
+F:\AMIKOM\SEMESTER 3\PEMROGRAMAN LANJUT\Praktikum3\AplikasiLatihanTiga3\AplikasiLatihanTiga3\bin\Debug\AplikasiLatihanTiga3.pdb
+F:\AMIKOM\SEMESTER 3\PEMROGRAMAN LANJUT\Praktikum3\AplikasiLatihanTiga3\AplikasiLatihanTiga3\obj\Debug\AplikasiLatihanTiga3.csproj.AssemblyReference.cache
+F:\AMIKOM\SEMESTER 3\PEMROGRAMAN LANJUT\Praktikum3\AplikasiLatihanTiga3\AplikasiLatihanTiga3\obj\Debug\AplikasiLatihanTiga3.frmLatihanTiga3.resources
+F:\AMIKOM\SEMESTER 3\PEMROGRAMAN LANJUT\Praktikum3\AplikasiLatihanTiga3\AplikasiLatihanTiga3\obj\Debug\AplikasiLatihanTiga3.Properties.Resources.resources
+F:\AMIKOM\SEMESTER 3\PEMROGRAMAN LANJUT\Praktikum3\AplikasiLatihanTiga3\AplikasiLatihanTiga3\obj\Debug\AplikasiLatihanTiga3.csproj.GenerateResource.cache
+F:\AMIKOM\SEMESTER 3\PEMROGRAMAN LANJUT\Praktikum3\AplikasiLatihanTiga3\AplikasiLatihanTiga3\obj\Debug\AplikasiLatihanTiga3.csproj.CoreCompileInputs.cache
+F:\AMIKOM\SEMESTER 3\PEMROGRAMAN LANJUT\Praktikum3\AplikasiLatihanTiga3\AplikasiLatihanTiga3\obj\Debug\AplikasiLatihanTiga3.exe
+F:\AMIKOM\SEMESTER 3\PEMROGRAMAN LANJUT\Praktikum3\AplikasiLatihanTiga3\AplikasiLatihanTiga3\obj\Debug\AplikasiLatihanTiga3.pdb
